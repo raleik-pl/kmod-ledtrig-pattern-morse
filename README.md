@@ -28,3 +28,5 @@ the `morse-to-pattern.sh` accepts two arguments
   - DOT is equal to DIT
   - DASH is 3*DIT
 - PAUSE in milliseconds is added to the end of the message
+
+![morse-led](https://github.com/raleik-pl/kmod-ledtrig-pattern-morse/raw/refs/heads/main/morse-led.mp4)
