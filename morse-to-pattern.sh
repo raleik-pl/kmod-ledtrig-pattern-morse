@@ -1,5 +1,7 @@
 #!/bin/bash
 
+# github.com/raleik-pl/kmod-ledtrig-pattern-morse
+
 MORSE=$(cat)
 
 DIT="${1:-75}"
