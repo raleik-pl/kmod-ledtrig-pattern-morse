@@ -1,5 +1,6 @@
 # kmod-ledtrig-pattern-morse
 useful scripts to translate text-to-morse and then morse-to pattern that is used by kmod-ledtrig-pattern
+
 it requires bash to work
 
 echo some text and pipe it to `text-to-morse.sh`
