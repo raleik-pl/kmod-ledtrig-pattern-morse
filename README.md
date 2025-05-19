@@ -29,4 +29,4 @@ the `morse-to-pattern.sh` accepts two arguments
   - DASH is 3*DIT
 - PAUSE in milliseconds is added to the end of the message
 
-[![morse-led](https://github.com/raleik-pl/kmod-ledtrig-pattern-morse/raw/refs/heads/main/morse-led.mp4)](https://github.com/raleik-pl/kmod-ledtrig-pattern-morse/raw/refs/heads/main/morse-led.mp4)
+![morse code in action on eth led video](https://github.com/raleik-pl/kmod-ledtrig-pattern-morse/raw/refs/heads/main/morse-led.mp4)
