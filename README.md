@@ -25,4 +25,6 @@ the `morse-to-pattern.sh` accepts two arguments
 # ./morse-to-pattern.sh [DIT PAUSE]
 ```
 - DIT is the lenght of morse code "time unit" in milliseconds
+  - DOT is equal to DIT
+  - DASH is 3*DIT
 - PAUSE in milliseconds is added to the end of the message
